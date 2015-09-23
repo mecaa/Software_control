@@ -1,0 +1,12 @@
+# Software_control
+Software de control, para enviar archivos y operar la máquina.
+
+Todos los archivos deben ser puestos en la siguiente estructura de carpetas:
+
+
+MECAA_host (carpeta)
+  gui.pde
+  MECAA_host.pde
+  txt_ejemplos (varios)
+          GUI_BUILDER_DATA (CARPETA)
+              gui.ser.2.5
